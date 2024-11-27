@@ -1,1 +1,1 @@
-arm64v8/redis:6-alpine3.20
+redis:6-alpine3.20
